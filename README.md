@@ -48,8 +48,8 @@ Se trata de un `stack` o conjunto de tecnologías de desarrollo web basado en Ja
 
 - PDF generado por la aplicación: 
   - Summary: 
-    [Reporte resumen](<docs/reports/TogglTrack_Report_Summary_report_(from_09_21_2026_to_09_27_2026).pdf>)
+    [Reporte resumen](./docs/reports/TogglTrack_Report_Summary_report_%28from_09_21_2026_to_09_27_2026%29.pdf)
   - Detailed:
-    [Reporte detallado](<docs/reports/TogglTrack_Report_Detailed_report_(from_09_21_2026_to_09_27_2026).pdf>)
+    [Reporte detallado](./docs/reports/TogglTrack_Report_Detailed_report_%28from_09_21_2026_to_09_27_2026%29.pdf)
 
 

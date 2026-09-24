@@ -47,7 +47,7 @@ Se trata de un `stack` o conjunto de tecnologías de desarrollo web basado en Ja
   ![Tracker funcionando en github](docs/screenshots/toggl-issue-timer.png)
 
 - PDF generado por la aplicación: 
-  - Summary:
+  - Summary: 
     [Reporte resumen](<docs/reports/TogglTrack_Report_Summary_report_(from_09_21_2026_to_09_27_2026).pdf>)
   - Detailed:
     [Reporte detallado](<docs/reports/TogglTrack_Report_Detailed_report_(from_09_21_2026_to_09_27_2026).pdf>)

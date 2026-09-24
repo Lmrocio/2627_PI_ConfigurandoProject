@@ -42,15 +42,14 @@ Se trata de un `stack` o conjunto de tecnologías de desarrollo web basado en Ja
 
 ## *4. Evidencias del uso de Toggl Track:*
 
-- Captura para mostrar Toggl Track implementado en una tarea:
+- Captura para mostrar Toggl Track implementado en una tarea, donde se muestra que se ha creado una rama, se ha cambiado el estado de la tarea y se está usando la extensión:
 
-  ![Tracker funcionando en github]()
-  
+  ![Tracker funcionando en github](docs/screenshots/toggl-issue-timer.png)
 
 - PDF generado por la aplicación: 
   - Summary:
- [Reporte resumen]()
+    [Reporte resumen](<docs/reports/TogglTrack_Report_Summary_report_(from_09_21_2026_to_09_27_2026).pdf>)
   - Detailed:
-  [Reporte detallado]()
+    [Reporte detallado](<docs/reports/TogglTrack_Report_Detailed_report_(from_09_21_2026_to_09_27_2026).pdf>)
 
 
